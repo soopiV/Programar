@@ -1,3 +1,5 @@
+//Sofia Espinoza Vera//
+
 //Bloque 1: Ejercicios con Cadenas//
 /* 1. Contar caracteres de una palabra
 o Entrada: "Manzana"
